@@ -35,13 +35,15 @@ div {
   background-color: #666;
 }
 
-.btn-ghost {
+.btn-ghost.ghost {
   border-width: 3px;
   color: #000;
-  border: 3px solid #000;
   background-color: #fff;
 }
 
+.ghost {
+  border: 3px solid #000;
+}
 .btn-ghost:hover {
   background-color: #666;
   border: 3px solid #666;
@@ -111,7 +113,7 @@ div {
   background-color: #933;
 }
 
-.btn-big.btn {
+.btn-big {
   font-size: 1.5rem;
 }
 
