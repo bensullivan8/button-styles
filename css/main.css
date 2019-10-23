@@ -26,7 +26,7 @@ div {
   background-color: #000;
 }
 
-.btn-subtle {
+.btn-subtle.btn {
   color: #fff;
   background-color: #ccc;
 }
@@ -35,9 +35,11 @@ div {
   background-color: #666;
 }
 
-.btn-ghost {
+.btn-ghost.btn {
   border-width: 3px;
   color: #000;
+  border: 3px solid #000;
+  background-color: #fff;
 }
 
 .btn-ghost:hover {
@@ -109,7 +111,7 @@ div {
   background-color: #933;
 }
 
-.btn-big {
+.btn-big.btn {
   font-size: 1.5rem;
 }
 
