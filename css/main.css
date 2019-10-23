@@ -12,11 +12,6 @@ div {
   text-align: center;
 }
 
-a {
-  text-decoration: none;
-  display: inline-block;
-}
-
 .btn {
   font-size: 1.125rem;
   padding: .4em .75em;
@@ -24,6 +19,7 @@ a {
   background-color: #333;
   color: #fff;
   display: inline-block;
+  text-decoration: none;
 }
 
 .btn:hover {
@@ -36,6 +32,8 @@ a {
   color: #fff;
   background-color: #ccc;
   font-size: 1.125rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-subtle:hover {
@@ -49,6 +47,8 @@ a {
   border: 3px solid #000;
   font-size: 1.125rem;
   color: #000;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-ghost:hover {
@@ -63,6 +63,8 @@ a {
   background-color: #f33;
   color: #fff;
   font-size: 1.125rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-warning:hover {
@@ -75,6 +77,8 @@ a {
   background-color: #333;
   color: #fff;
   font-size: .875rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-small:hover {
@@ -87,6 +91,8 @@ a {
   background-color: #ccc;
   color: #fff;
   font-size: .875rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-subtle-small:hover {
@@ -100,6 +106,8 @@ a {
   border: 3px solid #000;
   color: #000;
   font-size: .875rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-ghost-small:hover {
@@ -114,6 +122,8 @@ a {
   background-color: #f33;
   color: #fff;
   font-size: .875rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-warning-small:hover {
@@ -126,6 +136,8 @@ a {
   background-color: #333;
   color: #fff;
   font-size: 1.5rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-big:hover {
@@ -138,6 +150,8 @@ a {
   font-size: 1.5rem;
   background-color: #ccc;
   color: #fff;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-subtle-big:hover {
@@ -151,6 +165,8 @@ a {
   border: 3px solid #000;
   color: #000;
   font-size: 1.5rem;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-ghost-big:hover {
@@ -165,6 +181,8 @@ a {
   font-size: 1.5rem;
   background-color: #f33;
   color: #fff;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .btn-warning-big:hover {
